@@ -1,0 +1,3 @@
+pandas
+ipykernel
+nba_api
